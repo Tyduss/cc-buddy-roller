@@ -1,5 +1,7 @@
 # buddy-roller
 
+[English](README.en.md) | **中文**
+
 Claude Code 自定义 Skill，帮你**查询、筛选、更换** Claude Code 的 Buddy 宠物。
 
 支持自然语言输入（中英文均可），自动暴力搜索匹配的 userId，渲染 ASCII 宠物形象和属性面板，并自动写入配置。
