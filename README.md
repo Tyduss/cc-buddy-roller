@@ -62,11 +62,49 @@ Skill 会：
 4. 自动修改 `~/.claude.json`（替换 userID，删除 companion 块）
 5. 提示你重启 Claude Code 使新宠物生效
 
-### 可选属性
+### 可选物种
+
+```
+  鸭子 duck       鹅 goose        史莱姆 blob
+  <(· )___        (·>              .----.
+   (  ._>          ||            ( ·  · )
+    `--´         _(__)_           `----´
+
+  猫 cat          龙 dragon        章鱼 octopus
+   /\_/\          /^\  /^\          .----.
+  ( ·   ·)      <  ·  ·  >       ( ·  · )
+  (  ω  )       (   ~~   )       (______)
+  (")_(")        `-vvvv-´         /\/\/\/\
+
+  猫头鹰 owl      企鹅 penguin     乌龟 turtle
+   /\  /\         .---.            _,--._
+  ((·)(·))       (·>·)           ( ·  · )
+  (  ><  )      /(   )\        /[______]\
+   `----´        `---´           ``    ``
+
+  蜗牛 snail      幽灵 ghost       美西螈 axolotl
+ ·    .--.       .----.        }~(______)~{
+  \  ( @ )      / ·  · \       }~(· .. ·)~{
+   \_`--´      |      |         ( .--. )
+  ~~~~~~~      ~`~``~`~         (_/  \_)
+
+  水豚 capybara   仙人掌 cactus    机器人 robot
+  n______n     n  ____  n         .[||].
+ ( ·    · )   | |·  ·| |        [ ·  · ]
+ (   oo   )   |_|    |_|        [ ==== ]
+  `------´      |    |           `------´
+
+  兔子 rabbit     蘑菇 mushroom    胖猫 chonk
+   (\/__)       .-o-OO-o-.       /\    /\
+  ( ·  · )    (__________)     ( ·    · )
+ =(  ..  )=     |·  ·|         (   ..   )
+  (")__(")       |____|          `------´
+```
+
+### 其他属性
 
 | 属性 | 可选值 |
 |------|--------|
-| **物种** | duck, goose, blob, cat, dragon, octopus, owl, penguin, turtle, snail, ghost, axolotl, capybara, cactus, robot, rabbit, mushroom, chonk |
 | **稀有度** | common (★), uncommon (★★), rare (★★★), epic (★★★★), legendary (★★★★★) |
 | **眼睛** | ·, ✦, ×, ◉, @, ° |
 | **帽子** | none, crown, tophat, propeller, halo, wizard, beanie, tinyduck |
