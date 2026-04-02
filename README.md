@@ -159,4 +159,4 @@ Claude Code 的 Buddy 宠物由 `~/.claude.json` 中的 `userID` 字段通过确
 
 ## License
 
-MIT
+Apache-2.0
