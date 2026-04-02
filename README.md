@@ -16,9 +16,9 @@ Claude Code 自定义 Skill，帮你**查询、筛选、更换** Claude Code 的
 
 ```bash
 # 克隆仓库
-git clone https://github.com/<your-username>/buddy-roller.git
+git clone https://github.com/Tyduss/cc-buddy-roller.git
 # 复制到 Claude Code skills 目录
-cp -r buddy-roller ~/.claude/skills/
+cp -r cc-buddy-roller ~/.claude/skills/
 ```
 
 重启 Claude Code 后即可使用。
